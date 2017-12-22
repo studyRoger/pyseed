@@ -1,0 +1,7 @@
+include LICENSE
+include README.rst
+include HISTORY.txt
+include CHANGES.txt
+include CONTRIBUTORS.txt
+include requirements.txt
+#recursive-include . *.txt
